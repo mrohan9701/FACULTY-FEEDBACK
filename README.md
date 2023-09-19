@@ -1,5 +1,5 @@
-# Online-Student-Feedback-System
-A project build as a part of course CO303 - Database Management Systems Lab[CSE NITK SEM-5]
+# Faculty-Feedback-System
+A minor project- Database Management Systems Lab
 
 
 ### Home Page
